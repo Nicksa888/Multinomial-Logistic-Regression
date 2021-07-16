@@ -1,5 +1,3 @@
-# https://www.google.co.uk/search?q=multinomial+logistic+regression+in+r&source=hp&ei=p8zxYPr1HtOA8gLVrZuADg&iflsig=AINFCbYAAAAAYPHat5-NYEhcmSIiq4J81oAd6cxsdbuL&oq=multinomial+logisti&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6EQguELEDEIMBEMcBEKMCEJMCOggIABCxAxCDAToOCC4QsQMQgwEQxwEQowI6CwguELEDEMcBEKMCOggILhCxAxCDAToCCC46BQguELEDOggILhDHARCvAToLCC4QsQMQxwEQrwE6CAguEMcBEKMCOgcILhAKEJMCOgQILhAKOgoILhDHARCvARAKOgQIABAKOgcIABCxAxAKUL0NWJBKYMxYaAVwAHgBgAGDAogB_g-SAQYxOS4xLjOYAQCgAQGqAQdnd3Mtd2l6sAEA&sclient=gws-wiz
-
 #########################
 #########################
 #### Clear Workspace ####
